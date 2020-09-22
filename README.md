@@ -15,4 +15,4 @@ A simple KNN algorithm that can perform multi-classification
    *  The test file we provided,you can use them to run algorithm
    *  The accuracy on TestSamples about 96.725%
 
-Creating a new branch is quick and simple.
+
